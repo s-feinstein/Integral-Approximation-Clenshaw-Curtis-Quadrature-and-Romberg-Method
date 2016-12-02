@@ -12,4 +12,4 @@ Contains four files:
   -A python implementation of some 'difficult' functions to integrate
  CCversusR.py
   -A main method for comparing the two approaches to approximating integration, and some analysis of errors
-  
+   
